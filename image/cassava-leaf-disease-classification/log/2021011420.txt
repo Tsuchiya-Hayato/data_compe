@@ -1,0 +1,1 @@
+model: efficientnet-b1, lr: 0.0001, weights: tensor([0.5000, 1.0000, 1.1000, 6.1000, 1.2000]). batchsize: 16, kfold: 3, epoch: 150
