@@ -1,0 +1,12 @@
+model: efficientnet-b3, lr: 1e-05, weights: tensor([1., 1., 1., 1., 1.]). batchsize: 8, kfold: 3, epoch: 20, RandomHorizontalFlip:(True,),CenterCrop: True 
+
+kfold: 1, epoch: 1. train_loss: 1.0060524588980437, train_acc: 64.72938867077958. val_loss: 0.7897979813573607, val_acc: 73.83989906070377
+kfold: 1, epoch: 2. train_loss: 0.7294493612702215, train_acc: 73.94840157038699. val_loss: 0.6130006320340217, val_acc: 79.74204402074864
+kfold: 1, epoch: 3. train_loss: 0.6194623470791123, train_acc: 77.69910263600673. val_loss: 0.5515850066695981, val_acc: 80.8215337165288
+kfold: 1, epoch: 4. train_loss: 0.5626307669619597, train_acc: 80.20891755468311. val_loss: 0.5106473376811587, val_acc: 82.33562315996075
+kfold: 1, epoch: 5. train_loss: 0.5262828461002649, train_acc: 81.16236679753224. val_loss: 0.5164167079573388, val_acc: 82.41973924015142
+kfold: 1, epoch: 6. train_loss: 0.49308903393739406, train_acc: 82.38923163208077. val_loss: 0.49149990768585305, val_acc: 83.03659049488294
+kfold: 1, epoch: 7. train_loss: 0.46664841624161735, train_acc: 83.53196859226024. val_loss: 0.479411559613764, val_acc: 83.62540305621758
+kfold: 1, epoch: 8. train_loss: 0.4311613143545503, train_acc: 84.7448121144139. val_loss: 0.48284136821179663, val_acc: 83.87775129678957
+kfold: 1, epoch: 9. train_loss: 0.4109800753877846, train_acc: 85.90858104318565. val_loss: 0.48832663485045325, val_acc: 83.05060984158138
+kfold: 1, epoch: 10. train_loss: 0.3947954043658242, train_acc: 86.2100392596747. val_loss: 0.48613281887715826, val_acc: 83.6674610963129
