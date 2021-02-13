@@ -1,0 +1,3 @@
+filename: 003_albumentations_smoothing.ipynb, model: efficientnet-b5, lr: 1e-05, weights: tensor([1.5000, 1.0000, 1.0000, 1.0000, 1.0000]). batchsize: 2, kfold: 3, epoch: 25, weght_decay: 5e-05, smoothing: 0.1
+
+kfold: 1, epoch: 1. train_loss: 1.3330721035390776, train_acc: 61.18900729108245. val_loss: 1.484018122511549, val_acc: 53.73615589513528

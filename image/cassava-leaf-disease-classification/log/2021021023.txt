@@ -1,0 +1,10 @@
+filename: 003_albumentations_smoothing.ipynb, model: efficientnet-b5, lr: 1e-05, weights: tensor([1.5000, 1.0000, 1.0000, 1.0000, 1.0000]). batchsize: 2, kfold: 3, epoch: 25, weght_decay: 5e-05, smoothing: 0.1
+
+kfold: 1, epoch: 1. train_loss: 1.3235607969496803, train_acc: 61.53252944475603. val_loss: 1.443770624540552, val_acc: 58.65694658628908
+kfold: 1, epoch: 2. train_loss: 1.2072566192653562, train_acc: 65.57767807066742. val_loss: 1.2988587435567818, val_acc: 67.25080611243516
+kfold: 1, epoch: 3. train_loss: 1.1588465564968342, train_acc: 68.80257992148066. val_loss: 1.2698806299861152, val_acc: 64.6432076265246
+kfold: 1, epoch: 4. train_loss: 1.1112735967704972, train_acc: 71.50168255748738. val_loss: 1.1640935498591327, val_acc: 69.4658628907893
+kfold: 1, epoch: 5. train_loss: 1.0753430761752072, train_acc: 73.76612450925407. val_loss: 1.090461894949177, val_acc: 72.60619655124071
+kfold: 1, epoch: 6. train_loss: 1.038874576082406, train_acc: 75.30846887268649. val_loss: 1.0150574872999722, val_acc: 76.79798121407542
+kfold: 1, epoch: 7. train_loss: 1.0000605285836281, train_acc: 76.5002804262479. val_loss: 1.0040873206059473, val_acc: 77.62512266928361
+kfold: 1, epoch: 8. train_loss: 0.9610134864615645, train_acc: 78.25294447560292. val_loss: 1.033757290988534, val_acc: 77.00827141455208
